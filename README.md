@@ -1,6 +1,7 @@
 # ToDoList-MessengerBot
 
 Bot is live and can be tested on https://www.facebook.com/MJ-Test-Bot-1449363222029983/
+(To be added as a tester, ping me on the above page with your Facebook ID)
 
 Technologies: Python, Postgresql, SQLAlchemy, Messenger, Heroku.
 
