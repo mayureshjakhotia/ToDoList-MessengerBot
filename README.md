@@ -1,5 +1,3 @@
-##############################################################################################################################
-
 Bot is live to be tested on https://www.facebook.com/MJ-Test-Bot-1449363222029983/
 
 Technologies: Python, Postgresql, SQLAlchemy, Messenger.
