@@ -2,7 +2,7 @@
 
 Bot is live and can be tested on https://www.facebook.com/MJ-Test-Bot-1449363222029983/
 
-Technologies: Python, Postgresql, SQLAlchemy, Messenger.
+Technologies: Python, Postgresql, SQLAlchemy, Messenger, Heroku.
 
 Functionality:
 
